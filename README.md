@@ -49,8 +49,7 @@ Select search mode (quick/deep scan)
 Set custom parameters (optional)
 
 Start detection
-We have prepared and uploaded a youtube video for you. It shows in detail how this program works.
-https://youtu.be/M1Wb1Up3k5A
+We have prepared and uploaded a [youtube video](https://youtu.be/M1Wb1Up3k5A) for you. It shows in detail how this program works.
 
 ❌ Never use for unauthorized access to wallets that don't belong to you!
 
